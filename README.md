@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Donate](/donate) \
+[Donate](/donate) 
 <iframe src="https://discordapp.com/widget?id=751444756214841425&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> \
 You can use the [editor on GitHub](https://github.com/erlandyt/erlandyt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
