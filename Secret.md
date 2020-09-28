@@ -1,5 +1,5 @@
 ---
-permalink: /Secret.html
+permalink: /Secret
 ---
 ###Oh, You found me. \
 ##Nice work! \
