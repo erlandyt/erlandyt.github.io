@@ -1,6 +1,9 @@
 ## Erland YT
 ### Discord server
 <iframe src="https://discordapp.com/widget?id=751444756214841425&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
+### SPECIAL GIVEAWAY!
+<a class="e-widget" href="https://gleam.io/eqZMt/giveaway-for-vip-in-3-dc-servers" rel="nofollow">GIVEAWAY FOR VIP IN 3 DC SERVERS</a>
+<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
 
 ### LINKS
 [Channel](https://www.youtube.com/channel/UC_1Kz8Ve6uD1kmzGmdoU17Q)
