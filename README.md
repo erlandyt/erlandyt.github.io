@@ -1,3 +1,4 @@
+<script data-ad-client="ca-pub-8043166210870766" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 ## Erland YT
 ### Discord server
 <iframe src="https://discordapp.com/widget?id=751444756214841425&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
