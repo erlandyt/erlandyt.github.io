@@ -1,5 +1,5 @@
 ---
-permalink: /music
+permalink: /tunnel
 ---
 # You found my tunnel! Well done!  \
 This is a quick and secret way to travel across SD, SV, Aimaaja's & makee_28's base(They don't know about this) and my base. \
