@@ -1,6 +1,4 @@
 ---
 permalink: /Secret
 ---
-###Oh, You found me. \
-##Nice work! \
-Please DM erland or any staff on erland's discord (Link in main page) to claim your reward
+Hello! More secrets coming soon. good luck trying to find them!
