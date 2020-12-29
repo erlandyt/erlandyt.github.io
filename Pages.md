@@ -1,6 +1,8 @@
 ---
 permalink: /pages
 ---
-Main:
-(Main)[/]
-(donate)[/donate]
+##### Main:
+[Main](/) \
+[donate](/donate) \
+##### More info
+[Privacy](/privacy)
