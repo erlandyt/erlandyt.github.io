@@ -3,6 +3,8 @@ permalink: /pages
 ---
 ##### Main:
 [Main](/) \
-[donate](/donate) \
+[Pages](/pages) \
+[donate](/donate) 
 ##### More info
-[Privacy](/privacy)
+[Privacy{Coming soon}](/privacy) \
+[Cookies{Also coming soon}](/)
