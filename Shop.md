@@ -1,0 +1,4 @@
+---
+permalink: /shop
+---
+Coming soon
