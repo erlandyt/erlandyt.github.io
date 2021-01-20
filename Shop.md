@@ -2,7 +2,7 @@
 permalink: /shop
 ---
 Coming soon
-Shop Name | Services and prices
------------- | -------------
-Pangu | Unknown
-Content in the first column | Content in the second column
+# Shops
+###### Pangu:
+Shops's name: \
+Servvices and Prices:
