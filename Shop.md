@@ -2,7 +2,9 @@
 permalink: /shop
 ---
 My shop: 
-Pricing & more info: [[DC message](https://discord.com/channels/689773045279096849/727335619755245639/802174773454962709)]
+Pricing & more info: [[DC message](https://discord.com/channels/689773045279096849/727335619755245639/802174773454962709)] \
+Purchace by Sending the seller a message
+
 # Shops
 ### Pangu:
 ##### Shops's name: 
