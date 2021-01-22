@@ -6,7 +6,7 @@ Pricing & more info: [[DC message](https://discord.com/channels/6897730452790968
 # Shops
 ### Pangu:
 ##### Shops's name: 
-Name under construction
+Pan's part
 ##### Services and Prices:
 sugar cane 4 stacks 1 diamond \
 baked potatoes 3 stacks 1 diamond \
