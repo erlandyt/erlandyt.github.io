@@ -1,6 +1,15 @@
 ---
 permalink: /shop
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CE0X98EPBJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CE0X98EPBJ');
+</script>
 My shop: 
 Pricing & more info: [[DC message](https://discord.com/channels/689773045279096849/727335619755245639/802174773454962709)] \
 Purchace by Sending the seller a message
