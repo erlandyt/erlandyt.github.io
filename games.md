@@ -13,14 +13,14 @@ This page is for contacts/accounts related to games\
 
 ## Minecraft
 Username: Erland_2
-### Hypixel
+#### Hypixel
 Guild: Erland yt
-#### SkyBlock
+##### SkyBlock
 Island: /visit erland_2
 Profile: Apple
-#### Other
+##### Other
 Housing: Erland_2
-### DragonBornMageServer
+#### DragonBornMageServer
 Server is private.
 More info about my shop in DragonBornMage [here](/shop)
 ## Animal Crossing: New Horizons
