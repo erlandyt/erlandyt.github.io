@@ -1,10 +1,12 @@
 ---
 permalink: /msg
 ---
-Hi! You reached the ending! \
-This might be hard to find. \
-The whole path is this: \
-* Fake png > .txt
-* Unicode IDs to symbols
-* Symbols to text
-* Url
+I \
+**never** thought someone's\
+**gonna** get this far. I have nothing to\
+**give** \
+**you**. Not even a \
+**up**vote\
+The code continues in a url above \
+oapq @ iqneufq \
+This code is not it.
