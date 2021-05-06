@@ -1,4 +1,4 @@
 ---
 permalink: /MusicGame1.md
 ---
-The page is under construction during construction of the game
+This game has been cancelled due to low interest of business partners
